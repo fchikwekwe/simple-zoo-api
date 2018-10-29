@@ -7,11 +7,11 @@ const zoos = {
         animals:
             [
                 {
-                    name: 'Jerry',
+                    name: 'Geoffrey',
                     species: 'giraffe'
                 },
                 {
-                    name: 'boyo',
+                    name: 'Boyo',
                     species: 'badger'
                 }
             ],
@@ -21,12 +21,12 @@ const zoos = {
         animals:
             [
                 {
-                    name: 'bill',
+                    name: 'Zeus',
                     species: 'zebra'
                 },
                 {
-                    name: 'boyo',
-                    species: 'badger'
+                    name: 'Barbara',
+                    species: 'beaver'
                 }
             ],
         location: 'San Francisco'
